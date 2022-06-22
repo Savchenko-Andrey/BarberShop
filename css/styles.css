@@ -995,6 +995,9 @@ padding-bottom: 130px; */
   background-color: transparent;
   min-width: 40px;
   min-height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .modal-btn:hover,
@@ -1021,6 +1024,11 @@ padding-bottom: 130px; */
 }
 
 .modal-svg-close {
+  fill: var(--header-color);
+}
+
+.modal-svg-close:hover,
+.modal-svg-close:focus {
   fill: var(--accent-color);
 }
 

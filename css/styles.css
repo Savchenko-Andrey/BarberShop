@@ -115,7 +115,7 @@ body {
       rgba(25, 28, 38, 0.2),
       rgba(25, 28, 38, 0.2)
     ),
-    url(/images/hero-1.jpg);
+    url(../images/hero-1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   flex-grow: 1;
@@ -874,7 +874,7 @@ body {
   width: 500px;
   min-height: 500px;
   background-color: rgba(25, 28, 38, 1);
-  background-image: url(/images/bg-contacts.png);
+  background-image: url(../images/bg-contacts.png);
   background-size: cover;
   background-repeat: no-repeat;
   flex-grow: 1;

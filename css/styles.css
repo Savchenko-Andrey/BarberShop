@@ -88,6 +88,8 @@ body {
   border: 1px solid var(--accent-color);
   border-radius: 25px;
   background-color: transparent;
+  background-image: url(/images/1585472750_1\ 1.png);
+  background-size: cover;
   min-width: 160px;
   min-height: 40px;
 }
